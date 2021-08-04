@@ -4,9 +4,6 @@ import java.io.Serializable;
 
 public class DestinationForm implements Serializable {
 	
-	/**
-	 generated serial version IDで挿入 
-	 */
 	private static final long serialVersionUID = 5023701974192440316L;
 
 	private int userId;
